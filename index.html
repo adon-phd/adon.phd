@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>adon.phd</title>
+
+  <style>
+    /* Reset margins and prevent scroll bars */
+    html, body {
+      height: 100%;
+      width: 100%;
+      margin: 0;
+      overflow: hidden;
+    }
+
+    /* Background layer */
+    body::before {
+      content: "";
+      position: fixed;           /* stays put during resize/scroll */
+      top: 0;
+      left: 0;
+      height: 100vh;
+      width: 100vw;
+      background: url("bg.png") center / cover no-repeat;
+      /*  centre the image, scale with aspect-ratio preserved */
+      z-index: -1;               /* behind everything */
+      pointer-events: none;      /* no clicks on the background */
+    }
+
+    /* Disable interaction on everything */
+    body {
+      user-select: none;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body
+  oncontextmenu="return false;"   <!-- block right-click -->
+  onkeydown="return false;"       <!-- block keyboard -->
+  onmousedown="return false;"     <!-- block mouse down / touch -->
+  ontouchstart="return false;">
+  <!-- No visible content required -->
+</body>
+</html>
