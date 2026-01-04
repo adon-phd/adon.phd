@@ -1,0 +1,68 @@
+{
+  "building-3": {
+    "updated": "2026-01-04 17:51:39",
+    "timestamp": "2026-01-04 06:03:52AM",
+    "raw": "2026-01-04 06:03:52AM Roof Status: CLOSED",
+    "status": "CLOSED"
+  },
+  "building-9": {
+    "updated": "2026-01-04 17:51:44",
+    "timestamp": "2026-01-04 06:04:04AM",
+    "raw": "2026-01-04 06:04:04AM Roof Status: CLOSED",
+    "status": "CLOSED"
+  },
+  "building-5": {
+    "updated": "2026-01-04 17:51:41",
+    "timestamp": "2026-01-04 06:04:07AM",
+    "raw": "2026-01-04 06:04:07AM Roof Status: CLOSED",
+    "status": "CLOSED"
+  },
+  "building-1": {
+    "updated": "2026-01-04 17:51:35",
+    "timestamp": "2026-01-04 06:03:57AM",
+    "raw": "2026-01-04 06:03:57AM Roof Status: CLOSED",
+    "status": "CLOSED"
+  },
+  "building-8": {
+    "updated": "2026-01-04 17:51:43",
+    "timestamp": "2026-01-04 06:03:45AM",
+    "raw": "2026-01-04 06:03:45AM Roof Status: CLOSED",
+    "status": "CLOSED"
+  },
+  "building-7": {
+    "updated": "2026-01-04 17:51:42",
+    "timestamp": "2026-01-04 06:03:49AM",
+    "raw": "2026-01-04 06:03:49AM Roof Status: CLOSED",
+    "status": "CLOSED"
+  },
+  "building-10": {
+    "updated": "2026-01-04 17:51:36",
+    "timestamp": "2026-01-04 06:04:07AM",
+    "raw": "2026-01-04 06:04:07AM Roof Status: CLOSED",
+    "status": "CLOSED"
+  },
+  "building-20": {
+    "updated": "2026-01-04 17:51:38",
+    "timestamp": "2026-01-04 06:03:57AM",
+    "raw": "2026-01-04 06:03:57AM Roof Status: CLOSED",
+    "status": "CLOSED"
+  },
+  "building-2": {
+    "updated": "2026-01-04 17:51:37",
+    "timestamp": "2026-01-04 06:03:54AM",
+    "raw": "2026-01-04 06:03:54AM Roof Status: CLOSED",
+    "status": "CLOSED"
+  },
+  "building-4": {
+    "updated": "2026-01-04 17:51:40",
+    "timestamp": "2026-01-04 06:03:52AM",
+    "raw": "2026-01-04 06:03:52AM Roof Status: CLOSED",
+    "status": "CLOSED"
+  },
+  "building-6": {
+    "updated": "2026-01-04 17:51:41",
+    "timestamp": "2026-01-04 06:04:11AM",
+    "raw": "2026-01-04 06:04:11AM Roof Status: CLOSED",
+    "status": "CLOSED"
+  }
+}
