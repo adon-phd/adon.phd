@@ -1,68 +1,68 @@
 {
   "building-1": {
-    "status": "OPEN",
-    "timestamp": "2026-01-06 05:20:40PM",
-    "raw": "2026-01-06 05:20:40PM Roof Status: OPEN",
-    "updated": "2026-01-06 20:41:52"
+    "status": "CLOSED",
+    "timestamp": "2026-01-06 07:42:10PM",
+    "raw": "2026-01-06 07:42:10PM Roof Status: CLOSED",
+    "updated": "2026-01-06 20:43:03"
   },
   "building-10": {
     "status": "OPEN",
     "timestamp": "2026-01-06 05:20:27PM",
     "raw": "2026-01-06 05:20:27PM Roof Status: OPEN",
-    "updated": "2026-01-06 20:41:53"
+    "updated": "2026-01-06 20:43:04"
   },
   "building-2": {
-    "status": "OPEN",
-    "timestamp": "2026-01-06 05:20:31PM",
-    "raw": "2026-01-06 05:20:31PM Roof Status: OPEN",
-    "updated": "2026-01-06 20:41:54"
+    "status": "CLOSED",
+    "timestamp": "2026-01-06 07:42:24PM",
+    "raw": "2026-01-06 07:42:24PM Roof Status: CLOSED",
+    "updated": "2026-01-06 20:43:05"
   },
   "building-20": {
-    "status": "OPEN",
-    "timestamp": "2026-01-06 05:20:20PM",
-    "raw": "2026-01-06 05:20:20PM Roof Status: OPEN",
-    "updated": "2026-01-06 20:41:54"
+    "status": "CLOSED",
+    "timestamp": "2026-01-06 07:42:17PM",
+    "raw": "2026-01-06 07:42:17PM Roof Status: CLOSED",
+    "updated": "2026-01-06 20:43:05"
   },
   "building-3": {
-    "status": "OPEN",
-    "timestamp": "2026-01-06 05:20:31PM",
-    "raw": "2026-01-06 05:20:31PM Roof Status: OPEN",
-    "updated": "2026-01-06 20:41:55"
+    "status": "CLOSED",
+    "timestamp": "2026-01-06 07:42:34PM",
+    "raw": "2026-01-06 07:42:34PM Roof Status: CLOSED",
+    "updated": "2026-01-06 20:43:06"
   },
   "building-4": {
-    "status": "OPEN",
-    "timestamp": "2026-01-06 05:20:46PM",
-    "raw": "2026-01-06 05:20:46PM Roof Status: OPEN",
-    "updated": "2026-01-06 20:41:56"
+    "status": "CLOSED",
+    "timestamp": "2026-01-06 07:42:19PM",
+    "raw": "2026-01-06 07:42:19PM Roof Status: CLOSED",
+    "updated": "2026-01-06 20:43:07"
   },
   "building-5": {
-    "status": "OPEN",
-    "timestamp": "2026-01-06 05:20:26PM",
-    "raw": "2026-01-06 05:20:26PM Roof Status: OPEN",
-    "updated": "2026-01-06 20:41:56"
+    "status": "CLOSED",
+    "timestamp": "2026-01-06 07:42:29PM",
+    "raw": "2026-01-06 07:42:29PM Roof Status: CLOSED",
+    "updated": "2026-01-06 20:43:08"
   },
   "building-6": {
-    "status": "OPEN",
-    "timestamp": "2026-01-06 05:20:48PM",
-    "raw": "2026-01-06 05:20:48PM Roof Status: OPEN",
-    "updated": "2026-01-06 20:41:57"
+    "status": "CLOSED",
+    "timestamp": "2026-01-06 07:42:11PM",
+    "raw": "2026-01-06 07:42:11PM Roof Status: CLOSED",
+    "updated": "2026-01-06 20:43:08"
   },
   "building-7": {
-    "status": "OPEN",
-    "timestamp": "2026-01-06 05:20:32PM",
-    "raw": "2026-01-06 05:20:32PM Roof Status: OPEN",
-    "updated": "2026-01-06 20:41:58"
+    "status": "CLOSED",
+    "timestamp": "2026-01-06 07:42:30PM",
+    "raw": "2026-01-06 07:42:30PM Roof Status: CLOSED",
+    "updated": "2026-01-06 20:43:09"
   },
   "building-8": {
-    "status": "OPEN",
-    "timestamp": "2026-01-06 05:20:16PM",
-    "raw": "2026-01-06 05:20:16PM Roof Status: OPEN",
-    "updated": "2026-01-06 20:41:58"
+    "status": "CLOSED",
+    "timestamp": "2026-01-06 07:42:19PM",
+    "raw": "2026-01-06 07:42:19PM Roof Status: CLOSED",
+    "updated": "2026-01-06 20:43:10"
   },
   "building-9": {
-    "status": "OPEN",
-    "timestamp": "2026-01-06 05:20:44PM",
-    "raw": "2026-01-06 05:20:44PM Roof Status: OPEN",
-    "updated": "2026-01-06 20:41:59"
+    "status": "CLOSED",
+    "timestamp": "2026-01-06 07:42:19PM",
+    "raw": "2026-01-06 07:42:19PM Roof Status: CLOSED",
+    "updated": "2026-01-06 20:43:10"
   }
 }
