@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "min_build": 0,
-  "min_version": "1.0.0",
-  "latest_version": "1.0.0",
+  "min_version": "1.0",
+  "latest_version": "1.0",
   "release_notes_url": "https://adon.phd/app/DLIControl/1.0/release_notes.htm",
   "learn_more_url": "https://adon.phd/app/DLIControl",
   "message_title": "Update Required",
