@@ -1,0 +1,7 @@
+{
+  "endpoint": "a3by2rtejww3f1-ats.iot.us-east-1.amazonaws.com",
+  "region": "us-east-1",
+  "poolId": "us-east-1:c2e0ae5d-fe48-45d7-a40a-970f08e6da1d",
+  "topic": "observatory/status",
+  "clientId": "SFRO-Roof-Status-"
+}
